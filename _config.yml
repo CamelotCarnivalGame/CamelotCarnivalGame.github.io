@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Camealot Carnival: Renaissance Recreations"                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -49,15 +49,15 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Characters
-    description                           : 
+    description                           : Featuring 48 characters
     fontawesome_icon_name                 : star
 
   - title                                 : Mini-Games
-    description                           : 
+    description                           : "Featuring 4 mini-games, including; Scavanger Hunt, Target Shooting, Arrow Supply, and Jousting"
     fontawesome_icon_name                 : star
   
-  - title                                 : Something
-    description                           : 
+  - title                                 : Marketing Thing TBC
+    description                           : Another thing to help market the game
     fontawesome_icon_name                 : star
 
  
