@@ -13,7 +13,7 @@ presskit_download_link                    : https://drive.google.com/file/d/1--I
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "Camealot Carnival: Renaissance Recreations"                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Camealot Carnival: Renaissance Recreations is an immersive mobile gaming experience that transports players to a world of chivalry, magic, and fierce competition. Set in a richly detailed medieval fantasy realm, the game offers a collection of diverse mini-games, each inspired by iconic elements of the genre. Players compete in a series of medieval tournament minigames either single player and engage in competitive multiplayer against their friends."
+app_description                           : "Set in a richly detailed medieval fantasy realm, the game offers a collection of diverse mini-games, each inspired by iconic elements of the genre. Players compete in a series of medieval tournament minigames either single player and engage in competitive multiplayer against their friends."
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
