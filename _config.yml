@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : GAD181 Team                               
+your_name                                 : Lukasz, Nathan, Tim, & Jack                               
 your_link                                 :                      
 your_city                                 : Adelaide, Australia                                
 email_address                             : 
@@ -56,9 +56,9 @@ features                                  :
     description                           : "Featuring 4 mini-games, including; Scavanger Hunt, Target Shooting, Arrow Supply, and Jousting"
     fontawesome_icon_name                 : star
   
-  - title                                 : Marketing Thing TBC
-    description                           : Another thing to help market the game
-    fontawesome_icon_name                 : star
+  - title                                 : #Marketing Thing TBC
+    description                           : #Another thing to help market the game
+    fontawesome_icon_name                 : #star
 
  
 
